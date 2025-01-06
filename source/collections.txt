@@ -1,0 +1,8 @@
+name Biden age 70
+name John address "15 bright street"
+name john other empty
+name Trump age 50
+name Alberto age 50
+name Yo age 33
+name smith age 33
+name smith age 33
